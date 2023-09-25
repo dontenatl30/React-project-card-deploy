@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import Nav from "./components/nav";
+import Nav from "./components/Nav";
 import CartPage from "./components/CartPage";
 import useApiFetcher from "./Hooks/useApiFetcher";
 import ItemPage from "./components/ItemPage";
